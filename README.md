@@ -227,7 +227,7 @@ Test your implementation by running the test specs in the
 __test/06-fancy-calculator-spec.js__ file. Run the specs with the following
 command:
 
-```shell
+```shell  
 npm test test/06-fancy-calculator-spec.js
 ```
 
